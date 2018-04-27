@@ -1,0 +1,426 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"strlo",
+				"strtolower"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"gett",
+				"gettype"
+			],
+			[
+				"GE",
+				"_GET"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"page",
+				"pageId"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"ap",
+				"api_url"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/cfehome/settings/base.py",
+			"settings":
+			{
+				"buffer_size": 3116,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/cfehome/settings/local.py",
+			"settings":
+			{
+				"buffer_size": 3116,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/cfehome/settings/production.py",
+			"settings":
+			{
+				"buffer_size": 3118,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 170.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Ahmed Fouad/Dev/cfehome",
+		"/C/Users/Ahmed Fouad/Dev/cfehome/src",
+		"/C/Users/Ahmed Fouad/Dev/cfehome/src/cfehome",
+		"/C/Users/Ahmed Fouad/Dev/cfehome/src/cfehome/settings"
+	],
+	"file_history":
+	[
+		"/C/Users/Ahmed Fouad/Dev/cfehome/src/cfehome/settings/__init__.py",
+		"/C/Users/Ahmed Fouad/Dev/cfehome/src/cfehome/settings/local.py",
+		"/C/Users/Ahmed Fouad/Dev/cfehome/src/cfehome/settings/production.py",
+		"/C/Users/Ahmed Fouad/Dev/cfehome/src/cfehome/settings/base.py",
+		"/C/Users/Ahmed Fouad/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Default (Windows).sublime-keymap",
+		"/C/Users/Ahmed Fouad/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Ahmed Fouad/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/Ahmed Fouad/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Ahmed Fouad/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Ahmed Fouad/Dev/cfehome/src/cfehome/old_settings.py",
+		"/C/Users/Ahmed Fouad/Dev/cfehome/src/manage.py",
+		"/C/Users/Ahmed Fouad/Desktop/CountTopicOccurence.php",
+		"/C/wamp2/www/test/test.php",
+		"/C/Users/Ahmed Fouad/Desktop/a.php",
+		"/C/Users/Ahmed Fouad/Dev/cfehome/Scripts/django-admin.py"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"C:\\Users\\Ahmed Fouad\\Dev\\cfehome"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"requirments.py"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/cfehome/settings/base.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								3116
+							]
+						],
+						"settings":
+						{
+							"SL.74.region_keys":
+							[
+								"SL.flake8.Highlights.|b3c44f35dc40ff7967d21838c17567b6d4085223c82df47e3e98708603a339b9|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.flake8.Gutter.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|dot",
+								"SL.flake8.Highlights.|da7bd15073fb4416ca3976d785369a5a24dcf4dcc5d339f8a2861f28995fb1c9|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.flake8.Highlights.|8a4e4a6184959d17d182e9dbc9206af3cef7ace96964b8dbaebb28481d06a370|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.flake8.Highlights.|a3ceb93cbfb016eb4528246fa33b8af2a37d483312a156653ed704d5fed18436|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|821282084ec39efee92118a87b83096d582ae869a9f8ef896a80a9580ed0bc78|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32"
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/cfehome/settings/local.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3116,
+								3116
+							]
+						],
+						"settings":
+						{
+							"SL.75.region_keys":
+							[
+								"SL.flake8.Highlights.|b3c44f35dc40ff7967d21838c17567b6d4085223c82df47e3e98708603a339b9|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|821282084ec39efee92118a87b83096d582ae869a9f8ef896a80a9580ed0bc78|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.flake8.Gutter.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|dot",
+								"SL.flake8.Highlights.|da7bd15073fb4416ca3976d785369a5a24dcf4dcc5d339f8a2861f28995fb1c9|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.flake8.Highlights.|8a4e4a6184959d17d182e9dbc9206af3cef7ace96964b8dbaebb28481d06a370|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.flake8.Highlights.|a3ceb93cbfb016eb4528246fa33b8af2a37d483312a156653ed704d5fed18436|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32"
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1391.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/cfehome/settings/production.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"SL.76.region_keys":
+							[
+								"SL.flake8.Highlights.|b3c44f35dc40ff7967d21838c17567b6d4085223c82df47e3e98708603a339b9|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|821282084ec39efee92118a87b83096d582ae869a9f8ef896a80a9580ed0bc78|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.flake8.Gutter.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|dot",
+								"SL.flake8.Highlights.|da7bd15073fb4416ca3976d785369a5a24dcf4dcc5d339f8a2861f28995fb1c9|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.flake8.Highlights.|8a4e4a6184959d17d182e9dbc9206af3cef7ace96964b8dbaebb28481d06a370|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.flake8.Highlights.|a3ceb93cbfb016eb4528246fa33b8af2a37d483312a156653ed704d5fed18436|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32"
+							],
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "cfehome.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
