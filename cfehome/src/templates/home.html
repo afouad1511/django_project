@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>HEllo World!</h1>
+<p>This is {{html_var}} coming through
+</p>
+<p>
+   {%for some_item in some_list %}
+
+    {%if some_item|divisibleby:"2"%}
+        Even Number
+    {%endif%}
+    {{some_item}}<br>
+   {%endfor%}
+</p>
+{% endblock content %}
